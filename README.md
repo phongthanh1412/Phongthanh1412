@@ -1,7 +1,12 @@
  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNjgxMTEyM2UyOTgxODhhZjQxNjQ3NDc5ZWUwOTQ4N2YyOWFlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3kPDmoWdBpQPNhCnUG/giphy.gif"      width="100"> Hi there, I'm Thanh Phong
  
- ### :fire: My Stats :
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongthanh1412&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ ### :fire: My Github Stats :
+
+[![phongthanh1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=phongthanh1412&show_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongthanh1412&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
+
 
 <hr>
 <div align="center">
