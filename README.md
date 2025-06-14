@@ -1,14 +1,34 @@
- # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNjgxMTEyM2UyOTgxODhhZjQxNjQ3NDc5ZWUwOTQ4N2YyOWFlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3kPDmoWdBpQPNhCnUG/giphy.gif"      width="100"> Hi there, I'm Thanh Phong
- 
- ### :fire: My Github Stats :
+ # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNjgxMTEyM2UyOTgxODhhZjQxNjQ3NDc5ZWUwOTQ4N2YyOWFlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3kPDmoWdBpQPNhCnUG/giphy.gif"      width="100"> 🎩 Hi there... You're welcome!
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Love+Space...;Beyond+The+Stars" alt="Typing SVG" />
+</div>
+
+<div>
+    <p align="center">
+        <img src="https://badges.pufler.dev/repos/phongthanh1412?color=0e75b6"/>        
+        <img src="https://komarev.com/ghpvc/?username=phongthanh1412&label=Profile%20views&color=0e75b6&style=flat" alt="phongthanh1412"/>
+    </p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif" width="500" height="500" />
+</div>
+ 
+
+
+ ## :fire: My Github Stats 
+
+<div align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongthanh1412&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
+ 
 [![phongthanh1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=phongthanh1412&show_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongthanh1412&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
+ ## ☎️ Contact 
 
-
-<hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
   
