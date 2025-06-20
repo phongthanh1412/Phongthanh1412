@@ -21,7 +21,8 @@
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongthanh1412&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongthanh1412&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1)](https://github.com/phongthanh1412/github-readme-stats)
+
  
 [![phongthanh1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=phongthanh1412&show_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/phongthanh1412/github-readme-stats)
 
