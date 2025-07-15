@@ -5,8 +5,7 @@
 </div>
 
 <div>
-    <p align="center">
-        <img src="https://badges.pufler.dev/repos/phongthanh1412?color=0e75b6"/>        
+    <p align="center">       
         <img src="https://komarev.com/ghpvc/?username=phongthanh1412&label=Profile%20views&color=0e75b6&style=flat" alt="phongthanh1412"/>
     </p>
 </div>
